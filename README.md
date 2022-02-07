@@ -1,0 +1,2 @@
+# adultsalary
+predict adultsalary
